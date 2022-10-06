@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">S10Q1</string>
+    <string name="one">First Name-</string>
+    <string name="two">Middle Name-</string>
+    <string name="three">Last Name-</string>
+    <string name="four">Date of Birth-</string>
+    <string name="five">Address-</string>
+    <string name="six">Email-</string>
+</resources>
